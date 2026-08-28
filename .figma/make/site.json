@@ -1,0 +1,10 @@
+{
+  "description": "This patient app enables users to book appointments and track health metrics seamlessly, catering to all ages with a clear, user-friendly interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
